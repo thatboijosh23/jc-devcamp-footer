@@ -1,0 +1,25 @@
+{
+  "name": "jc-devcamp-footer",
+  "version": "0.1.0",
+  "description": "This Package allows for a footer to be generated for JS applications with an updated year, name,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatboijosh23/jc-devcamp-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Joshua Cajou <joshua.cajou277038@gmail.com> (https://www.npmjs.com/~thatboijosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatboijosh23/jc-devcamp-footer/issues"
+  },
+  "homepage": "https://github.com/thatboijosh23/jc-devcamp-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
